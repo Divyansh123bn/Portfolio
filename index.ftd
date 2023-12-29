@@ -31,7 +31,7 @@ header-item2-link: /Portfolio/about
 header-item3-link: /Portfolio/blogs
 header-item4-link: /Portfolio/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: https://twitter.com/Divyansh7224
+cta-item2-link:divyansh123bm@gmail.com
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -44,7 +44,7 @@ cta-item2-link: https://twitter.com/Divyansh7224
 ;; -----------------------------------------------------
 
 -- toast.stack: 
-title: Hello, I'm aspiring fastn developer based in India
+title: Hello,I am a Data Enthusiast with some python and sql skills.
 link: https://github.com/Divyansh123bn
 
 ;; -----------------------------------------------------
@@ -71,11 +71,11 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Divyansh Singh solanki,
+secondTitle: Divyansh Singh Solanki,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Data
+secondTitle: Enthusiast
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
@@ -94,7 +94,7 @@ width.fixed.px: 700
 spacing.fixed.px: 10
 
 -- button.secondary: 
-title: Hire me
+title: Contact me 
 link: mailto:divyansh123bm@gmail.com
 
 -- button.primary: 
